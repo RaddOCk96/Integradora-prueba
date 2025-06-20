@@ -155,7 +155,7 @@
             // pictureBox6
             // 
             pictureBox6.Image = (Image)resources.GetObject("pictureBox6.Image");
-            pictureBox6.Location = new Point(149, 67);
+            pictureBox6.Location = new Point(155, 67);
             pictureBox6.Name = "pictureBox6";
             pictureBox6.Size = new Size(361, 100);
             pictureBox6.SizeMode = PictureBoxSizeMode.Zoom;
